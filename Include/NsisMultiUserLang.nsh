@@ -20,7 +20,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_ENGLISH} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_ENGLISH} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_ENGLISH} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_ENGLISH} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_ENGLISH} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_ENGLISH} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_ENGLISH} "You need to login with an account that is a member of the administrators group to continue."
@@ -51,7 +51,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_AFRIKAANS} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_AFRIKAANS} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_AFRIKAANS} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_AFRIKAANS} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_AFRIKAANS} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_AFRIKAANS} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_AFRIKAANS} "You need to login with an account that is a member of the administrators group to continue."
@@ -82,7 +82,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_ALBANIAN} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_ALBANIAN} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_ALBANIAN} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_ALBANIAN} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_ALBANIAN} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_ALBANIAN} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_ALBANIAN} "You need to login with an account that is a member of the administrators group to continue."
@@ -113,7 +113,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_ARABIC} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_ARABIC} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_ARABIC} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_ARABIC} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_ARABIC} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_ARABIC} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_ARABIC} "You need to login with an account that is a member of the administrators group to continue."
@@ -144,7 +144,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_ARMENIAN} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_ARMENIAN} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_ARMENIAN} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_ARMENIAN} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_ARMENIAN} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_ARMENIAN} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_ARMENIAN} "You need to login with an account that is a member of the administrators group to continue."
@@ -175,7 +175,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_ASTURIAN} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_ASTURIAN} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_ASTURIAN} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_ASTURIAN} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_ASTURIAN} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_ASTURIAN} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_ASTURIAN} "You need to login with an account that is a member of the administrators group to continue."
@@ -206,7 +206,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_BASQUE} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_BASQUE} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_BASQUE} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_BASQUE} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_BASQUE} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_BASQUE} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_BASQUE} "You need to login with an account that is a member of the administrators group to continue."
@@ -237,7 +237,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_BELARUSIAN} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_BELARUSIAN} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_BELARUSIAN} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_BELARUSIAN} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_BELARUSIAN} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_BELARUSIAN} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_BELARUSIAN} "You need to login with an account that is a member of the administrators group to continue."
@@ -268,7 +268,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_BOSNIAN} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_BOSNIAN} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_BOSNIAN} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_BOSNIAN} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_BOSNIAN} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_BOSNIAN} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_BOSNIAN} "You need to login with an account that is a member of the administrators group to continue."
@@ -299,7 +299,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_BRETON} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_BRETON} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_BRETON} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_BRETON} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_BRETON} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_BRETON} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_BRETON} "You need to login with an account that is a member of the administrators group to continue."
@@ -361,7 +361,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_CATALAN} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_CATALAN} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_CATALAN} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_CATALAN} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_CATALAN} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_CATALAN} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_CATALAN} "You need to login with an account that is a member of the administrators group to continue."
@@ -392,7 +392,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_CORSICAN} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_CORSICAN} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_CORSICAN} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_CORSICAN} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_CORSICAN} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_CORSICAN} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_CORSICAN} "You need to login with an account that is a member of the administrators group to continue."
@@ -423,7 +423,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_CROATIAN} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_CROATIAN} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_CROATIAN} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_CROATIAN} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_CROATIAN} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_CROATIAN} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_CROATIAN} "You need to login with an account that is a member of the administrators group to continue."
@@ -454,7 +454,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_CZECH} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_CZECH} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_CZECH} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_CZECH} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_CZECH} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_CZECH} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_CZECH} "You need to login with an account that is a member of the administrators group to continue."
@@ -485,7 +485,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_DANISH} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_DANISH} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_DANISH} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_DANISH} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_DANISH} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_DANISH} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_DANISH} "You need to login with an account that is a member of the administrators group to continue."
@@ -516,7 +516,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_DUTCH} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_DUTCH} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_DUTCH} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_DUTCH} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_DUTCH} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_DUTCH} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_DUTCH} "You need to login with an account that is a member of the administrators group to continue."
@@ -547,7 +547,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_ESPERANTO} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_ESPERANTO} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_ESPERANTO} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_ESPERANTO} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_ESPERANTO} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_ESPERANTO} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_ESPERANTO} "You need to login with an account that is a member of the administrators group to continue."
@@ -578,7 +578,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_ESTONIAN} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_ESTONIAN} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_ESTONIAN} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_ESTONIAN} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_ESTONIAN} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_ESTONIAN} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_ESTONIAN} "You need to login with an account that is a member of the administrators group to continue."
@@ -609,7 +609,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_FARSI} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_FARSI} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_FARSI} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_FARSI} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_FARSI} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_FARSI} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_FARSI} "You need to login with an account that is a member of the administrators group to continue."
@@ -640,7 +640,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_FINNISH} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_FINNISH} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_FINNISH} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_FINNISH} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_FINNISH} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_FINNISH} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_FINNISH} "You need to login with an account that is a member of the administrators group to continue."
@@ -671,7 +671,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_FRENCH} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_FRENCH} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_FRENCH} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_FRENCH} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_FRENCH} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_FRENCH} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_FRENCH} "You need to login with an account that is a member of the administrators group to continue."
@@ -702,7 +702,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_GALICIAN} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_GALICIAN} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_GALICIAN} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_GALICIAN} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_GALICIAN} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_GALICIAN} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_GALICIAN} "You need to login with an account that is a member of the administrators group to continue."
@@ -733,7 +733,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_GEORGIAN} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_GEORGIAN} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_GEORGIAN} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_GEORGIAN} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_GEORGIAN} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_GEORGIAN} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_GEORGIAN} "You need to login with an account that is a member of the administrators group to continue."
@@ -796,7 +796,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_GREEK} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_GREEK} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_GREEK} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_GREEK} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_GREEK} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_GREEK} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_GREEK} "You need to login with an account that is a member of the administrators group to continue."
@@ -827,7 +827,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_HEBREW} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_HEBREW} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_HEBREW} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_HEBREW} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_HEBREW} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_HEBREW} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_HEBREW} "You need to login with an account that is a member of the administrators group to continue."
@@ -856,7 +856,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_HUNGARIAN} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_HUNGARIAN} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_HUNGARIAN} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_HUNGARIAN} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_HUNGARIAN} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_HUNGARIAN} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_HUNGARIAN} "You need to login with an account that is a member of the administrators group to continue."
@@ -887,7 +887,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_ICELANDIC} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_ICELANDIC} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_ICELANDIC} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_ICELANDIC} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_ICELANDIC} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_ICELANDIC} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_ICELANDIC} "You need to login with an account that is a member of the administrators group to continue."
@@ -918,7 +918,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_INDONESIAN} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_INDONESIAN} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_INDONESIAN} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_INDONESIAN} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_INDONESIAN} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_INDONESIAN} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_INDONESIAN} "You need to login with an account that is a member of the administrators group to continue."
@@ -949,7 +949,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_IRISH} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_IRISH} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_IRISH} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_IRISH} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_IRISH} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_IRISH} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_IRISH} "You need to login with an account that is a member of the administrators group to continue."
@@ -978,7 +978,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_ITALIAN} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_ITALIAN} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_ITALIAN} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_ITALIAN} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_ITALIAN} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_ITALIAN} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_ITALIAN} "You need to login with an account that is a member of the administrators group to continue."
@@ -1009,7 +1009,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_JAPANESE} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_JAPANESE} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_JAPANESE} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_JAPANESE} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_JAPANESE} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_JAPANESE} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_JAPANESE} "You need to login with an account that is a member of the administrators group to continue."
@@ -1040,7 +1040,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_KOREAN} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_KOREAN} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_KOREAN} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_KOREAN} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_KOREAN} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_KOREAN} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_KOREAN} "You need to login with an account that is a member of the administrators group to continue."
@@ -1071,7 +1071,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_KURDISH} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_KURDISH} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_KURDISH} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_KURDISH} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_KURDISH} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_KURDISH} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_KURDISH} "You need to login with an account that is a member of the administrators group to continue."
@@ -1102,7 +1102,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_LATVIAN} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_LATVIAN} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_LATVIAN} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_LATVIAN} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_LATVIAN} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_LATVIAN} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_LATVIAN} "You need to login with an account that is a member of the administrators group to continue."
@@ -1133,7 +1133,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_LITHUANIAN} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_LITHUANIAN} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_LITHUANIAN} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_LITHUANIAN} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_LITHUANIAN} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_LITHUANIAN} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_LITHUANIAN} "You need to login with an account that is a member of the administrators group to continue."
@@ -1164,7 +1164,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_LUXEMBOURGISH} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_LUXEMBOURGISH} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_LUXEMBOURGISH} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_LUXEMBOURGISH} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_LUXEMBOURGISH} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_LUXEMBOURGISH} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_LUXEMBOURGISH} "You need to login with an account that is a member of the administrators group to continue."
@@ -1195,7 +1195,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_MACEDONIAN} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_MACEDONIAN} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_MACEDONIAN} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_MACEDONIAN} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_MACEDONIAN} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_MACEDONIAN} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_MACEDONIAN} "You need to login with an account that is a member of the administrators group to continue."
@@ -1226,7 +1226,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_MALAY} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_MALAY} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_MALAY} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_MALAY} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_MALAY} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_MALAY} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_MALAY} "You need to login with an account that is a member of the administrators group to continue."
@@ -1257,7 +1257,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_MONGOLIAN} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_MONGOLIAN} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_MONGOLIAN} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_MONGOLIAN} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_MONGOLIAN} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_MONGOLIAN} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_MONGOLIAN} "You need to login with an account that is a member of the administrators group to continue."
@@ -1288,7 +1288,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_NORWEGIAN} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_NORWEGIAN} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_NORWEGIAN} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_NORWEGIAN} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_NORWEGIAN} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_NORWEGIAN} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_NORWEGIAN} "You need to login with an account that is a member of the administrators group to continue."
@@ -1319,7 +1319,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_NORWEGIANNYNORSK} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_NORWEGIANNYNORSK} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_NORWEGIANNYNORSK} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_NORWEGIANNYNORSK} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_NORWEGIANNYNORSK} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_NORWEGIANNYNORSK} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_NORWEGIANNYNORSK} "You need to login with an account that is a member of the administrators group to continue."
@@ -1350,7 +1350,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_PASHTO} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_PASHTO} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_PASHTO} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_PASHTO} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_PASHTO} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_PASHTO} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_PASHTO} "You need to login with an account that is a member of the administrators group to continue."
@@ -1381,7 +1381,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_POLISH} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_POLISH} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_POLISH} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_POLISH} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_POLISH} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_POLISH} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_POLISH} "You need to login with an account that is a member of the administrators group to continue."
@@ -1412,7 +1412,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_PORTUGUESE} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_PORTUGUESE} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_PORTUGUESE} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_PORTUGUESE} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_PORTUGUESE} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_PORTUGUESE} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_PORTUGUESE} "You need to login with an account that is a member of the administrators group to continue."
@@ -1443,7 +1443,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_PORTUGUESEBR} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_PORTUGUESEBR} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_PORTUGUESEBR} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_PORTUGUESEBR} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_PORTUGUESEBR} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_PORTUGUESEBR} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_PORTUGUESEBR} "You need to login with an account that is a member of the administrators group to continue."
@@ -1474,7 +1474,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_ROMANIAN} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_ROMANIAN} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_ROMANIAN} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_ROMANIAN} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_ROMANIAN} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_ROMANIAN} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_ROMANIAN} "You need to login with an account that is a member of the administrators group to continue."
@@ -1505,7 +1505,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_RUSSIAN} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_RUSSIAN} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_RUSSIAN} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_RUSSIAN} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_RUSSIAN} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_RUSSIAN} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_RUSSIAN} "You need to login with an account that is a member of the administrators group to continue."
@@ -1534,7 +1534,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_SCOTSGAELIC} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_SCOTSGAELIC} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_SCOTSGAELIC} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_SCOTSGAELIC} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_SCOTSGAELIC} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_SCOTSGAELIC} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_SCOTSGAELIC} "You need to login with an account that is a member of the administrators group to continue."
@@ -1565,7 +1565,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_SERBIAN} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_SERBIAN} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_SERBIAN} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_SERBIAN} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_SERBIAN} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_SERBIAN} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_SERBIAN} "You need to login with an account that is a member of the administrators group to continue."
@@ -1594,7 +1594,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_SERBIANLATIN} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_SERBIANLATIN} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_SERBIANLATIN} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_SERBIANLATIN} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_SERBIANLATIN} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_SERBIANLATIN} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_SERBIANLATIN} "You need to login with an account that is a member of the administrators group to continue."
@@ -1625,7 +1625,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_SIMPCHINESE} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_SIMPCHINESE} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_SIMPCHINESE} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_SIMPCHINESE} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_SIMPCHINESE} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_SIMPCHINESE} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_SIMPCHINESE} "You need to login with an account that is a member of the administrators group to continue."
@@ -1656,7 +1656,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_SLOVAK} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_SLOVAK} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_SLOVAK} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_SLOVAK} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_SLOVAK} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_SLOVAK} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_SLOVAK} "You need to login with an account that is a member of the administrators group to continue."
@@ -1687,7 +1687,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_SLOVENIAN} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_SLOVENIAN} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_SLOVENIAN} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_SLOVENIAN} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_SLOVENIAN} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_SLOVENIAN} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_SLOVENIAN} "You need to login with an account that is a member of the administrators group to continue."
@@ -1718,7 +1718,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_SPANISH} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_SPANISH} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_SPANISH} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_SPANISH} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_SPANISH} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_SPANISH} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_SPANISH} "You need to login with an account that is a member of the administrators group to continue."
@@ -1749,7 +1749,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_SPANISHINTERNATIONAL} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_SPANISHINTERNATIONAL} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_SPANISHINTERNATIONAL} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_SPANISHINTERNATIONAL} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_SPANISHINTERNATIONAL} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_SPANISHINTERNATIONAL} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_SPANISHINTERNATIONAL} "You need to login with an account that is a member of the administrators group to continue."
@@ -1780,7 +1780,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_SWEDISH} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_SWEDISH} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_SWEDISH} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_SWEDISH} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_SWEDISH} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_SWEDISH} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_SWEDISH} "You need to login with an account that is a member of the administrators group to continue."
@@ -1811,7 +1811,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_TATAR} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_TATAR} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_TATAR} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_TATAR} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_TATAR} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_TATAR} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_TATAR} "You need to login with an account that is a member of the administrators group to continue."
@@ -1842,7 +1842,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_THAI} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_THAI} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_THAI} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_THAI} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_THAI} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_THAI} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_THAI} "You need to login with an account that is a member of the administrators group to continue."
@@ -1873,7 +1873,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_TRADCHINESE} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_TRADCHINESE} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_TRADCHINESE} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_TRADCHINESE} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_TRADCHINESE} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_TRADCHINESE} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_TRADCHINESE} "You need to login with an account that is a member of the administrators group to continue."
@@ -1904,7 +1904,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_TURKISH} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_TURKISH} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_TURKISH} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_TURKISH} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_TURKISH} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_TURKISH} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_TURKISH} "You need to login with an account that is a member of the administrators group to continue."
@@ -1935,7 +1935,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_UKRAINIAN} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_UKRAINIAN} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_UKRAINIAN} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_UKRAINIAN} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_UKRAINIAN} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_UKRAINIAN} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_UKRAINIAN} "You need to login with an account that is a member of the administrators group to continue."
@@ -1966,7 +1966,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_UZBEK} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_UZBEK} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_UZBEK} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_UZBEK} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_UZBEK} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_UZBEK} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_UZBEK} "You need to login with an account that is a member of the administrators group to continue."
@@ -1997,7 +1997,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_VIETNAMESE} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_VIETNAMESE} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_VIETNAMESE} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_VIETNAMESE} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_VIETNAMESE} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_VIETNAMESE} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_VIETNAMESE} "You need to login with an account that is a member of the administrators group to continue."
@@ -2028,7 +2028,7 @@
 	LangString MULTIUSER_ADMIN_CREDENTIALS_REQUIRED ${LANG_WELSH} "Administrator credentials required."
 	LangString MULTIUSER_ADMIN_UNINSTALL_CREDENTIALS_REQUIRED ${LANG_WELSH} "Administrator credentials required for uninstall."
 	; error messages - not so important
-	LangString MULTIUSER_INVALID_PARAMS ${LANG_WELSH} "Invalid combination of paramaters."
+	LangString MULTIUSER_INVALID_PARAMS ${LANG_WELSH} "Invalid combination of parameters."
 	LangString MULTIUSER_NOT_INSTALLED ${LANG_WELSH} "There is no installation of $(^NameDA)."
 	LangString MULTIUSER_INSTALLATION_FOR_CURRENT_USER_NOT_SUPPORTED ${LANG_WELSH} "The operating system doesn't support current user installations."
 	LangString MULTIUSER_ADMIN_ACCOUNT_LOGIN_REQUIRED ${LANG_WELSH} "You need to login with an account that is a member of the administrators group to continue."
